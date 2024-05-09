@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1654823049 source:d:\数据结构ljx\学生成绩管理系统\main.c
+	<stdio.h>
+	<stdlib.h>
+	"decsSort.h"
+	"fileMerge.h"
+	"fileStore.h"
+	"score.h"
+	"search.h"
+	"student.h"
+
+1654741241 d:\数据结构ljx\学生成绩管理系统\decssort.h
+	<stdio.h>
+	<stdlib.h>
+	"fileMerge.h"
+	"fileStore.h"
+	"score.h"
+	"search.h"
+	"student.h"
+
+1654735133 d:\数据结构ljx\学生成绩管理系统\filemerge.h
+	"decsSort.h"
+	"fileStore.h"
+	"score.h"
+	"search.h"
+	"student.h"
+
+1654736174 d:\数据结构ljx\学生成绩管理系统\filestore.h
+	"decsSort.h"
+	"fileMerge.h"
+	"score.h"
+	"search.h"
+	"student.h"
+
+1654651639 d:\数据结构ljx\学生成绩管理系统\score.h
+
+1654820984 d:\数据结构ljx\学生成绩管理系统\search.h
+	<stdio.h>
+	<stdlib.h>
+	"decsSort.h"
+	"fileMerge.h"
+	"fileStore.h"
+	"score.h"
+	"student.h"
+
+1654735442 d:\数据结构ljx\学生成绩管理系统\student.h
+	"decsSort.h"
+	"fileMerge.h"
+	"fileStore.h"
+	"score.h"
+	"search.h"
+
